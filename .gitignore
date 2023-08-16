@@ -1,0 +1,22 @@
+# Exclude all directories starting with .
+.*/
+
+# Exclude some common directories
+.idea/
+.vscode/
+__pycache__/
+
+# Exclude some common files 
+*.pyc
+*.pyo
+*.pyd
+
+# Exclude virtualenv directory
+venv/
+
+# Exclude files
+scratch.txt
+data/models.txt
+data/sample.csv
+data/reviews_5_balanced.json.gz
+data/reviews_5_balanced.json
