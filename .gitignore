@@ -20,3 +20,4 @@ data/models.txt
 data/sample.csv
 data/reviews_5_balanced.json.gz
 data/reviews_5_balanced.json
+opeanai.code-workspace
